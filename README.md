@@ -50,7 +50,6 @@ Crafted with care and a touch of creativity, this portfolio website showcases a 
 
 I’d love to hear your thoughts, feedback, or even collaborate on new projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-bansal-7869a6255/)  
 
 ---
 
