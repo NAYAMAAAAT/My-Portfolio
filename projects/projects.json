@@ -1,0 +1,39 @@
+[
+  {
+    
+      "name": "The Dragon News Website",
+      "desc": "The Dragon News Portal, the server-side infrastructure that powers an innovative news platform built using React + Vite",
+      "image": "news.jpg",
+      "category": "All projects",
+      "links": {
+        "view": "https://celebrated-beignet-95c14e.netlify.app/category/01",
+        "code": "https://github.com/NAYAMAAAAT/Dragon-News-Project"
+      }
+  
+  },
+
+  {
+    "name": "Mountain Travel site",
+    "desc": "Eco-Adventure Experiences is an eco-friendly adventure blog website that showcases various eco-tourism activities such as mountain treks",
+    "image": "mountain.webp",
+    "category": "All projects",
+    "links": {
+      "view": "https://mountain-trek-site.netlify.app/",
+      "code": "https://github.com/NAYAMAAAAT/mountain-trek-site"
+    }
+  },
+  {
+    "name": "Donation site",
+    "desc": "Implemented a simple frontend website for donate money",
+    "image": "donate.jpg",
+    "category": "All projects",
+    "links": {
+      "view": "https://assignment-mithu.netlify.app/",
+      "code": "https://github.com/NAYAMAAAAT/donation-site"
+    }
+  }
+  
+]
+
+
+
